@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://count.getloli.com/get/@:Irismax22?theme=rule34">
 
 ## 前端工程师—不化羽
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
