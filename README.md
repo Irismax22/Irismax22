@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hello world! This  is Tommy.
 
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+This+is+Tommy;Second+Hello+world+!)](https://git.io/typing-svg)
 
 ### **社交主页：**
 
