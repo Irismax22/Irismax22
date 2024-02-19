@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ## 前端工程师—不化羽
 
-前端代号：不化羽
+#### 前端代号：不化羽
 Hello world! This  is Tommy.
 
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+This+is+Tommy;Second+Hello+world+!)](https://git.io/typing-svg)
+//[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+This+is+Tommy;Second+Hello+world+!)](https://git.io/typing-svg)
 
 ### **社交主页：**
 
