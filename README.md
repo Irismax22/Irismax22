@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-<a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>
+<a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>：不化羽
 <br/>
-抖音
+<a href="https://www.douyin.com/user/self">抖音<a/>:不化羽
 <br/>
 <a href="https://juejin.cn/user/1137327787744947">掘金</a>：掘金优秀读者，了解了 30 篇技术文章，15万阅读。
 <br/>
