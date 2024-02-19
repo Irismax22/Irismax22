@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-
--   <a href="https://juejin.cn/user/1137327787744947"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+<a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>
+//<a href="https://juejin.cn/user/1137327787744947"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
