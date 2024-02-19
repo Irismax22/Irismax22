@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 Hello world! This  is Tommy.
 
 <br/>
-//[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+This+is+Tommy;Second+Hello+world+!)](https://git.io/typing-svg)
-
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
