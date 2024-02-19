@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 Hello world! This  is Tommy.
 
 <br/>
-### **社交主页：**
+
+###  **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
