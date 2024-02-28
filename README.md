@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 #### 前端代号：不化羽
 Hello world! This  is Tommy.
+关注前端多年，期待与您的相识和学习
 
 <br/>
 
