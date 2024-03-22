@@ -32,7 +32,7 @@ Hello world! This  is Tommy.</br>
 <br/>
 <a href="https://www.douyin.com/user/self">抖音<a/>:   不化羽
 <br/>
-<a href="https://juejin.cn/user/1137327787744947">掘金</a>：掘金优秀读者，了解了 30 篇技术文章，15万阅读。
+<a href="https://juejin.cn/user/1137327787744947">掘金</a>：掘金优秀读者
 <br/>
 ### **技术栈:**
 
