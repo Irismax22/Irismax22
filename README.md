@@ -28,7 +28,7 @@ Hello world! This  is Tommy.</br>
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-<a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>：不化羽
+<a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>：点击跳转或搜索：https://space.bilibili.com/697742699
 <br/>
 <a href="https://www.douyin.com/user/self">抖音<a/>:   不化羽 账号：887036640
 <br/>
