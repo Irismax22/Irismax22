@@ -30,7 +30,7 @@ Hello world! This  is Tommy.</br>
 
 <a href="https://space.bilibili.com/697742699?spm_id_from=333.1007.0.0">bilibili</a>：点击跳转或搜索：https://space.bilibili.com/697742699
 <br/>
-<a href="https://www.douyin.com/user/self">抖音<a/>:   不化羽 账号：887036640
+<a href="https://www.douyin.com/user/self">抖音<a/>:  不化羽 账号：887036640
 <br/>
 <a href="https://juejin.cn/user/1137327787744947">掘金</a>：掘金优秀读者
 <br/>
