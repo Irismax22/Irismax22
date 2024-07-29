@@ -34,7 +34,7 @@ Hello world! This  is Tommy.</br>
 <br/>
 <a href="https://juejin.cn/user/1137327787744947">掘金</a>：掘金优秀读者
 <br/>
-<a href="https://www.csdn.net/">CSDN</a>
+<a href="https://www.csdn.net/">CSDN官网</a>
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
